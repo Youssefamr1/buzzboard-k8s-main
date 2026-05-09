@@ -342,7 +342,7 @@ GitOps with ArgoCD
 ## 👤 Author
 
 **Youssef Amr**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/youssef-amr-680bb5197)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-amr-680bb5197)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Youssefamr1)
 
 ---
